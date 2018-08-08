@@ -1,0 +1,3 @@
+[submodule ".obelisk/impl"]
+	path = .obelisk/impl
+	url = https://github.com/obsidiansystems/obelisk
